@@ -1,0 +1,1049 @@
+{
+  "AllCells": [
+    {
+      "Tile": "Tiles/1x1/1x1_0",
+      "AllRotations": false,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/1x1/1x1_1",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/1x1/1x1_2",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/1x1/1x1_2_1",
+      "AllRotations": false,
+      "HalfRotations": true,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/1x1/1x1_3",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/1x1/1x1_4",
+      "AllRotations": false,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_0",
+      "AllRotations": false,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_1",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_2",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_2_1",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_3",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_3_1",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_4",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_4_1",
+      "AllRotations": false,
+      "HalfRotations": true,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_6",
+      "AllRotations": false,
+      "HalfRotations": true,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/2x2/2x2_8",
+      "AllRotations": false,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 1, 1 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 1 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_12",
+      "AllRotations": false,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 0 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 2 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_0",
+      "AllRotations": false,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_2",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_3",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_4",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_5",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_6_2",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_6",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_6_3",
+      "AllRotations": false,
+      "HalfRotations": true,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/3x3/3x3_9",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T3x3_1",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 1, 1 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 1 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T3x3_2",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 1 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 0 ],
+          "Offset": [ 2, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T3x3_3",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 1, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T3x3_4",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 0, 1, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 1, 0, 1, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 0 ],
+          "Offset": [ 0, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T4x4_1",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 3 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 3, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 0 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 3, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T4x4_2",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 3 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 3, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T4x4_3",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 3 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 1 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 2, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 3, 1 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T4x4_4",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 3 ]
+        },
+        {
+          "Edges": [ 0, 0, 1, 0 ],
+          "Offset": [ 2, 3 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 3, 3 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 1 ],
+          "Offset": [ 3, 2 ]
+        },
+        {
+          "Edges": [ 0, 1, 0, 0 ],
+          "Offset": [ 1, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 1 ],
+          "Offset": [ 3, 1 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 0 ],
+          "Offset": [ 2, 0 ]
+        },
+        {
+          "Edges": [ 0, 0, 0, 0 ],
+          "Offset": [ 3, 0 ]
+        }
+      ]
+    },
+    {
+      "Tile": "Tiles/Tetris/T4x4_5",
+      "AllRotations": true,
+      "HalfRotations": false,
+      "Cells": [
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 3 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 1, 3 ]
+        },
+        {
+          "Edges": [ 1, 1, 0, 1 ],
+          "Offset": [ 2, 3 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 3, 3 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 0, 1 ],
+          "Offset": [ 1, 2 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 0 ],
+          "Offset": [ 3, 2 ]
+        },
+        {
+          "Edges": [ 1, 0, 1, 1 ],
+          "Offset": [ 0, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 0 ],
+          "Offset": [ 3, 1 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 0, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 1 ],
+          "Offset": [ 1, 0 ]
+        },
+        {
+          "Edges": [ 0, 1, 1, 1 ],
+          "Offset": [ 2, 0 ]
+        },
+        {
+          "Edges": [ 1, 1, 1, 1 ],
+          "Offset": [ 3, 0 ]
+        }
+      ]
+    }
+  ]
+}
